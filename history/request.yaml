@@ -1,5 +1,5 @@
 data_ready: false
 data_stream: CE04OSBP-LJ01C-05-ADCPSI103-streamed-adcp_system_configuration
-last_request: '2021-12-21T22:37:08.090012Z'
+last_request: '2022-01-01T03:19:23.116014Z'
 response: https://raw.githubusercontent.com/ooi-data/CE04OSBP-LJ01C-05-ADCPSI103-streamed-adcp_system_configuration/main/history/response.json
 status: discontinued
